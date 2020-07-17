@@ -2,7 +2,7 @@
 
 I'm a passionate Fullstack Web Developer from Lahore, Pakistan. 
 
-💻 Software Engineer at **Tintash** — *July to Present*
+💻 Software Engineer at **Tintash** — *July to Present*  
 🎓 BS(CS) from FAST-NUCES, Lahore — *August 2016 to July 2020*  
 💻 Fullstack Developer at SolutionInn — *Summers of 2019*  
 💻 Frontend Developer at Respond.io — *Summers of 2018*  
