@@ -16,6 +16,6 @@ I'm a passionate Fullstack Web Developer from Lahore, Pakistan.
 💱 I created Taskbarter.com — An app to exchange tasks and asks  
 👷‍ I worked on Spamsort.com, Purzey.pk, Petabay.com, Hubover.com and multiple other startups.
 
-Work profile: **[mohsin-tintash](https://github.com/mohsin-tintash)**
+Work profile: **[mohsinht on Gitlab](https://gitlab.com/mohsinht)**
 
 📫 How to reach me: **mohsinhayat104@gmail.com** or **[Online Resume](https://mohsinht.github.io)**
