@@ -18,4 +18,4 @@ I'm a passionate Fullstack Web Developer from Lahore, Pakistan.
 
 Work profile: **[mohsinht on Gitlab](https://gitlab.com/mohsinht)**
 
-📫 How to reach me: **mohsinhayat104@gmail.com** or **[Online Resume](https://mohsinht.github.io)**
+📫  - How to reach me: **mohsinhayat104@gmail.com** or **[Online Resume](https://mohsinht.com)**
