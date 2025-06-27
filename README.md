@@ -13,7 +13,7 @@ I'm a passionate Fullstack Web Developer from Lahore, Pakistan.
 😎  - Level 1 on Fiverr — *March 2015*  
 🧭  - Got first paid project — *September 2014*  
 
-🔭  - Side project: FirstCustomer.ai - A platform to simulate first users of your digital product
+🔭  - Side project: FirstCustomer.ai - A platform to simulate first users of your digital product   
 🔭  - ~I'm currently working on Aalim.io — A platform for teachers to deliver lectures effectively~ (deprecated)  
 💱  - I created Taskbarter.com — An app to exchange tasks and asks  
 👷‍  - I worked on Spamsort.com, Purzey.pk, Petabay.com, Hubover.com and multiple other startups.
