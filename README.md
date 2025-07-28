@@ -2,8 +2,8 @@
 
 I'm a passionate Fullstack Web Developer from Lahore, Pakistan. 
 
-💻  - Software Engineer at Trafilea — *June 2025 to Present*   
-💻  - Software Engineer at Awell Health — *April 2021 to May 2025*   
+💻  - AI Engineer at Trafilea — *June 2025 to Present*   
+💻  - Mid-level Software Engineer at Awell Health — *April 2021 to May 2025*   
 💻  - Software Engineer at Tintash — *July 2020 to April 2021*  
 🎓  - BS(CS) from FAST-NUCES, Lahore — *August 2016 to July 2020*  
 💻  - Fullstack Developer at SolutionInn — *Summers of 2019*  
